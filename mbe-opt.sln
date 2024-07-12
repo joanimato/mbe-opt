@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "mbe-opt", "mbe-opt.fsproj", "{AFCE4281-D655-4CE0-9359-7AF3489CB22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCE4281-D655-4CE0-9359-7AF3489CB22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCE4281-D655-4CE0-9359-7AF3489CB22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCE4281-D655-4CE0-9359-7AF3489CB22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCE4281-D655-4CE0-9359-7AF3489CB22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D24219-6800-4FCD-917E-470279228323}
+	EndGlobalSection
+EndGlobal
